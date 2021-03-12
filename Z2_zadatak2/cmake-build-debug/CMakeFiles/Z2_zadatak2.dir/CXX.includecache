@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/muhamed/IdeaProjects/ASP/Z2_zadatak2/main.cpp
+iostream
+-
+vector
+-
+string
+-
+sstream
+-
+ostream
+-
+

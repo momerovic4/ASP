@@ -1,0 +1,3 @@
+C:/Users/muhamed/IdeaProjects/ASP/Z1/cmake-build-debug/CMakeFiles/Z1.dir
+C:/Users/muhamed/IdeaProjects/ASP/Z1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/muhamed/IdeaProjects/ASP/Z1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

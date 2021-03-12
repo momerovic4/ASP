@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/muhamed/IdeaProjects/ASP/zadaca4/main.cpp
+iostream
+-
+iomanip
+-
+string
+-
+algorithm
+-
+
